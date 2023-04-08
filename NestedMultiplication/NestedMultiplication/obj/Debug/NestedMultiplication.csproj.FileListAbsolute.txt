@@ -1,0 +1,12 @@
+C:\Users\Home\source\repos\NestedMultiplication\NestedMultiplication\bin\Debug\NestedMultiplication.exe.config
+C:\Users\Home\source\repos\NestedMultiplication\NestedMultiplication\bin\Debug\NestedMultiplication.exe
+C:\Users\Home\source\repos\NestedMultiplication\NestedMultiplication\bin\Debug\NestedMultiplication.pdb
+C:\Users\Home\source\repos\NestedMultiplication\NestedMultiplication\obj\Debug\NestedMultiplication.csprojAssemblyReference.cache
+C:\Users\Home\source\repos\NestedMultiplication\NestedMultiplication\obj\Debug\NestedMultiplication.Form1.resources
+C:\Users\Home\source\repos\NestedMultiplication\NestedMultiplication\obj\Debug\NestedMultiplication.Properties.Resources.resources
+C:\Users\Home\source\repos\NestedMultiplication\NestedMultiplication\obj\Debug\NestedMultiplication.csproj.GenerateResource.cache
+C:\Users\Home\source\repos\NestedMultiplication\NestedMultiplication\obj\Debug\NestedMultiplication.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\NestedMultiplication\NestedMultiplication\obj\Debug\NestedMultiplication.exe
+C:\Users\Home\source\repos\NestedMultiplication\NestedMultiplication\obj\Debug\NestedMultiplication.pdb
+C:\Users\Home\source\repos\NestedMultiplication\NestedMultiplication\bin\Debug\MathParser.org-mXparser.dll
+C:\Users\Home\source\repos\NestedMultiplication\NestedMultiplication\obj\Debug\NestedMultiplication.csproj.CopyComplete
