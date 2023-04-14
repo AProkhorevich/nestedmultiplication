@@ -58,6 +58,7 @@ namespace NestedMultiplication
             this.funcTextBox.Name = "funcTextBox";
             this.funcTextBox.Size = new System.Drawing.Size(100, 20);
             this.funcTextBox.TabIndex = 1;
+            this.funcTextBox.Text = "sin";
             this.funcTextBox.TextChanged += new System.EventHandler(this.funcTextBox_TextChanged);
             // 
             // label1
@@ -92,6 +93,7 @@ namespace NestedMultiplication
             this.argTextBox.Name = "argTextBox";
             this.argTextBox.Size = new System.Drawing.Size(100, 20);
             this.argTextBox.TabIndex = 5;
+            this.argTextBox.Text = "pi/8";
             // 
             // label3
             // 
@@ -117,6 +119,7 @@ namespace NestedMultiplication
             this.nodesTextBox.Name = "nodesTextBox";
             this.nodesTextBox.Size = new System.Drawing.Size(100, 20);
             this.nodesTextBox.TabIndex = 8;
+            this.nodesTextBox.Text = "0,pi/4,pi/2,3*pi/4,pi";
             // 
             // label5
             // 
