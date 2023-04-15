@@ -44,17 +44,17 @@ namespace NestedMultiplication
             // 
             // calculate_nested
             // 
-            this.calculate_nested.Location = new System.Drawing.Point(283, 288);
+            this.calculate_nested.Location = new System.Drawing.Point(300, 300);
             this.calculate_nested.Name = "calculate_nested";
-            this.calculate_nested.Size = new System.Drawing.Size(198, 108);
+            this.calculate_nested.Size = new System.Drawing.Size(150, 100);
             this.calculate_nested.TabIndex = 0;
-            this.calculate_nested.Text = "button1";
+            this.calculate_nested.Text = "Посчитать";
             this.calculate_nested.UseVisualStyleBackColor = true;
             this.calculate_nested.Click += new System.EventHandler(this.calculate_nested_Click);
             // 
             // funcTextBox
             // 
-            this.funcTextBox.Location = new System.Drawing.Point(170, 160);
+            this.funcTextBox.Location = new System.Drawing.Point(100, 150);
             this.funcTextBox.Name = "funcTextBox";
             this.funcTextBox.Size = new System.Drawing.Size(100, 20);
             this.funcTextBox.TabIndex = 1;
@@ -81,7 +81,7 @@ namespace NestedMultiplication
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(167, 127);
+            this.label2.Location = new System.Drawing.Point(100, 120);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(53, 13);
             this.label2.TabIndex = 4;
@@ -89,7 +89,7 @@ namespace NestedMultiplication
             // 
             // argTextBox
             // 
-            this.argTextBox.Location = new System.Drawing.Point(341, 160);
+            this.argTextBox.Location = new System.Drawing.Point(250, 150);
             this.argTextBox.Name = "argTextBox";
             this.argTextBox.Size = new System.Drawing.Size(100, 20);
             this.argTextBox.TabIndex = 5;
@@ -98,7 +98,7 @@ namespace NestedMultiplication
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(338, 127);
+            this.label3.Location = new System.Drawing.Point(250, 120);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(55, 13);
             this.label3.TabIndex = 6;
@@ -107,7 +107,7 @@ namespace NestedMultiplication
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(480, 127);
+            this.label4.Location = new System.Drawing.Point(400, 120);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(92, 13);
             this.label4.TabIndex = 7;
@@ -115,7 +115,7 @@ namespace NestedMultiplication
             // 
             // nodesTextBox
             // 
-            this.nodesTextBox.Location = new System.Drawing.Point(483, 160);
+            this.nodesTextBox.Location = new System.Drawing.Point(400, 150);
             this.nodesTextBox.Name = "nodesTextBox";
             this.nodesTextBox.Size = new System.Drawing.Size(100, 20);
             this.nodesTextBox.TabIndex = 8;
@@ -124,7 +124,7 @@ namespace NestedMultiplication
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(624, 127);
+            this.label5.Location = new System.Drawing.Point(550, 120);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(118, 13);
             this.label5.TabIndex = 9;
@@ -132,7 +132,7 @@ namespace NestedMultiplication
             // 
             // derivativeTextBox
             // 
-            this.derivativeTextBox.Location = new System.Drawing.Point(627, 160);
+            this.derivativeTextBox.Location = new System.Drawing.Point(550, 150);
             this.derivativeTextBox.Name = "derivativeTextBox";
             this.derivativeTextBox.Size = new System.Drawing.Size(100, 20);
             this.derivativeTextBox.TabIndex = 10;
@@ -154,7 +154,7 @@ namespace NestedMultiplication
             this.Controls.Add(this.funcTextBox);
             this.Controls.Add(this.calculate_nested);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Nested Multiplication";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
